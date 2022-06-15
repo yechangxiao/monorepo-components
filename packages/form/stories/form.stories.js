@@ -1,7 +1,7 @@
 import RbForm from '../'
 import RbFormItem from '../../formitem'
-import RbInput from '../../formitem'
-import RbButton from '../../formitem'
+import RbInput from '../../input'
+import RbButton from '../../button'
 
 export default {
   title: 'RbForm',
