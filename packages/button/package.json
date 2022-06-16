@@ -1,5 +1,5 @@
 {
-  "name": "rb-button",
+  "name": "rb-button1",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "2210ba79944993c798fa13f81af669970438e56f"
+  "gitHead": "0ef35ba36b1d13a7eb4f17a4d43c3d113c9f86c2"
 }

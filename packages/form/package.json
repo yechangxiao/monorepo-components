@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "yeecx<963264777@qq.com>",
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "2210ba79944993c798fa13f81af669970438e56f"
+  "gitHead": "0ef35ba36b1d13a7eb4f17a4d43c3d113c9f86c2"
 }
