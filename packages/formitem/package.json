@@ -1,5 +1,5 @@
 {
-  "name": "rb-formItem",
+  "name": "rb-formitem",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "async-validator": "^4.1.1"
-  }
+  },
+  "gitHead": "2210ba79944993c798fa13f81af669970438e56f"
 }

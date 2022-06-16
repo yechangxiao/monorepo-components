@@ -1,7 +1,7 @@
-import FormItem from './src/formItem.vue'
+import Formitem from './src/formitem.vue'
 
-FormItem.install = Vue => {
-  Vue.component(FormItem.name, FormItem)
+Formitem.install = Vue => {
+  Vue.component(Formitem.name, Formitem)
 }
 
-export default FormItem
+export default Formitem

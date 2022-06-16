@@ -12,7 +12,7 @@
 import AsyncValidator from 'async-validator'
 
 export default {
-  name: 'RbFormItem',
+  name: 'RbFormitem',
   inject: ['form'],
   props: {
     label: {
