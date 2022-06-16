@@ -27,7 +27,8 @@
     "@storybook/testing-library": "0.0.13",
     "@storybook/vue": "^6.5.9",
     "babel-loader": "^8.2.5",
-    "vue-loader": "^15.9.8"
+    "vue-loader": "^15.9.8",
+    "lerna": "^3.22.1"
   },
   "dependencies": {
     "vue": "^2.6.14",
