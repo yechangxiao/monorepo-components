@@ -2,12 +2,16 @@
   "name": "rb-steps",
   "version": "0.0.4",
   "description": "",
-  "main": "index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "ba402fa968782411b52cecbc6a0c03403db2131d"
+  "gitHead": "ba402fa968782411b52cecbc6a0c03403db2131d",
+  "dependencies": {
+    "postcss": "8"
+  }
 }
