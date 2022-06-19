@@ -14,7 +14,8 @@
     "lerna": "lerna publish",
     "build:prod": "cross-env NODE_ENV=production rollup -c",
     "build:dev": "cross-env NODE_ENV=development rollup -c",
-    "clean": "lerna clean"
+    "clean": "lerna clean",
+    "plop": "plop"
   },
   "keywords": [],
   "author": "",
@@ -38,6 +39,7 @@
     "jest": "^28.1.1",
     "jest-environment-jsdom": "^28.1.1",
     "lerna": "^3.22.1",
+    "plop": "^3.1.1",
     "postcss": "8",
     "rimraf": "^3.0.2",
     "rollup": "^2.75.6",
